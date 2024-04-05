@@ -1,4 +1,4 @@
-# nikhil-project
+# nikhil-demo
 this is my first git repository.
 <br>
 author - nikhil
